@@ -4,7 +4,7 @@
 * 💼 Currently completing a Java Full-Stack Development Virtual Internship at Infosys Springboard.
 * 🧠 Interested in backend engineering, scalable Java systems, and AI-powered applications.
 * 📍 Based in Davangere, Karnataka, India.
-* 📫 Reach me at tarutarun163@gmail.com.
+* 📫 Reach me at tarutarun163@gmail.com | 🔗 linkedin.com/in/tarun-b-39b290326
 
 💼 Experience
 
